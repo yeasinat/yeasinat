@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there..
-
 <!--
 **Y3ASIN/Y3ASIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
