@@ -1,4 +1,3 @@
-https://capsule-render.vercel.app/api?type=waving&height=310&color=gradient&text=Hello%20%there
 ### Hi there 👋
 
 <!--
