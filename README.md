@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<p>
+  https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20there..
 </p>
 <!--
 **Y3ASIN/Y3ASIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
