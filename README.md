@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20there..&fontSize=60&reversal=true&fontAlign=50&fontAlignY=35)
-![Y3ASIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y3ASIN&show_icons=true&theme=radical&line_height=20)
+![Y3ASIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y3ASIN&show_icons=true&theme=radical&line_height=20&card_width=380)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3ASIN&theme=radical&size_weight=0.5&count_weight=0.5&card_width=380&layout=compact)
 
 ![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake.svg)
