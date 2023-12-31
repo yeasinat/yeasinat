@@ -11,8 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20there..&fontSize=60&reversal=true&fontAlign=50&fontAlignY=35)
-![Y3ASIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y3ASIN&show_icons=true&theme=merko&line_height=20&card_width=380)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3ASIN&theme=merko&size_weight=0.5&count_weight=0.5&card_width=380&layout=compact)
 
-![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20there..&fontSize=60&reversal=true&fontAlign=50&fontAlignY=35)
+<a content="center" href="https://github.com/Y3ASIN/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Y3ASIN&card_width=400&theme=merko"/>
+</a>
+<a content="center" href="https://github.com/Y3ASIN/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Y3ASIN&layout=compact&card_width=320&theme=merko"/>
+</a>
+
+![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
