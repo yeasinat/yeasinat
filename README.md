@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 </a>
 
 ![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
+<hr>
+
+[![](https://visitcount.itsvg.in/api?id=y3asin&label=Visitors&pretty=true)](https://visitcount.itsvg.in)
