@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Y3ASIN&layout=compact&card_width=320&theme=merko"/>
 </a>
 
+
 ![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
 <hr>
-
 [![](https://visitcount.itsvg.in/api?id=y3asin&label=Visitors&pretty=true)](https://visitcount.itsvg.in)
+
