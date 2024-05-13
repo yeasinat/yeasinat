@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20there..&fontSize=60&reversal=true&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20there..&fontSize=30&reversal=true&fontAlign=50&fontAlignY=35)
 <a content="center" href="https://github.com/Y3ASIN/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Y3ASIN&card_width=400&theme=merko"/>
 </a>
