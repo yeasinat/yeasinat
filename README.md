@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 :man_technologist: About me:
 A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20there..&fontSize=30&reversal=true&fontAlign=50&fontAlignY=35)
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20there..&fontSize=30&reversal=true&fontAlign=50&fontAlignY=35)
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
