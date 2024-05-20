@@ -19,18 +19,20 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://discordapp.com/users/yeasinat">
-    <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/y3asin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/Y3ASiN/">
-    <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
-  </a>
-</div>
+        <a href="https://discordapp.com/users/yeasinat">
+        <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/y3asin/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://leetcode.com/u/Y3ASiN/">
+        <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
+      </a>
+  </div>
   
 </div>
+<hr>
+
 </br>
 </br>
 
@@ -47,9 +49,9 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </br>
+<hr>
 
 ### Stats :
-
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=y3asin&theme=blue-green" alt="GitHub Streak" /></a>  
 <div/>
@@ -66,8 +68,9 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 
 
 ![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
+
 <hr>
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yeasin&label=Visitors&pretty=true" />
-</a>
+</a> -->
 
