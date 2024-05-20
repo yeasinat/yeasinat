@@ -32,7 +32,6 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
   
 </div>
 <hr>
-</br>
 
 ### Technologies :
 <div>
