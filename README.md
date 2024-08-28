@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 :man_technologist: About me:
 A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20there..&fontSize=30&reversal=true&fontAlign=50&fontAlignY=35)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20there..&fontSize=30&reversal=true&fontAlign=50&fontAlignY=35)-->
+
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 
-  <div id="badges">
-        <a href="https://discordapp.com/users/yeasinat">
-        <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
-      </a>
+   <div id="badges">
       <a href="https://www.linkedin.com/in/y3asin/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
@@ -29,10 +27,20 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
         <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
       </a>
   </div>
-  
-</div>
-<hr>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y3ASIN&theme=react&utcOffset=8)
+
+</div>
+
+
+<!--
+        <a href="https://discordapp.com/users/yeasinat">
+        <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
+      </a>
 ### Technologies :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -68,7 +76,7 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 
 ![Snake animation](https://github.com/Y3ASIN/Y3ASIN/blob/output/github-contribution-grid-snake-dark.svg)
 
-<hr>
+<hr> -->
 <!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yeasin&label=Visitors&pretty=true" />
 </a> -->
