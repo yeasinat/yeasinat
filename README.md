@@ -28,11 +28,11 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
       </a>
   </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y3ASIN&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y3ASIN&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y3ASIN&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Y3ASIN&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y3ASIN&theme=codeSTACKr&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Y3ASIN&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y3ASIN&theme=react&utcOffset=8)
 
 </div>
 
