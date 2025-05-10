@@ -28,11 +28,11 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
       </a>
   </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasinat&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinat&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinat&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinat&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinat&theme=rose_pine&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasinat&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasinat&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasinat&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinat&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinat&theme=merko&utcOffset=8)
 
 </div>
 
