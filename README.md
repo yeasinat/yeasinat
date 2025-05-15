@@ -34,10 +34,14 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasinat&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasinat&theme=dark&utcOffset=8)
 
+
 </div>
 
 
 <!--
+<a content="center" href="https://github.com/yeasinat/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yeasinat&card_width=400&theme=merko"/>
+</a>
         <a href="https://discordapp.com/users/yeasinat">
         <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=Discord" alt="Discord Badge"/>
       </a>
