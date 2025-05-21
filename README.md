@@ -63,8 +63,8 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
 <hr>
 
 ### Stats :
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=y3asin&theme=blue-green" alt="GitHub Streak" /></a>  
+<div align="start">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=yeasinat&theme=blue-green" alt="GitHub Streak" /></a>  
 <div/>
 
 </br>
