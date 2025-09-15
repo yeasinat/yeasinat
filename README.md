@@ -23,7 +23,7 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
       <a href="https://www.linkedin.com/in/y3asin/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://leetcode.com/u/Y3ASiN/">
+      <a href="https://leetcode.com/u/yeasinat/">
         <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode" alt="LeetCode Badge"/>
       </a>
   </div>
