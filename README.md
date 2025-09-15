@@ -20,7 +20,7 @@ A passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhnaDMyeGt0ZG1saGI0MW1ia3kwOG1sbGdlZjUxcmRkdDgwYW01ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 
    <div id="badges">
-      <a href="https://www.linkedin.com/in/y3asin/">
+      <a href="https://www.linkedin.com/in/yeasinat/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://leetcode.com/u/yeasinat/">
